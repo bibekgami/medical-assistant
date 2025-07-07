@@ -70,7 +70,7 @@ npm run preview
 
 Add your screenshots here:
 
-![App Screenshot](public/logo.png)
+![App Screenshot](public/Medical Assistant.jpeg)
 
 ---
 
